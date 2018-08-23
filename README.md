@@ -15,6 +15,7 @@ Requirements
 Create folders by follwoing names before running 
 
 1. data
+
 2.runs
 
 Use a tensorflow version higher than 1.1
