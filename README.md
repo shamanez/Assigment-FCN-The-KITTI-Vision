@@ -8,13 +8,13 @@ Steps to run the code
 2.Download KITTI dataset and save it in the data/data_road folder.(http://www.cvlibs.net/download.php?file=data_road.zip)
 
 
-3. Run main.py with Python 3
+3.Run main.py with Python 3
 
 Requirements 
 
 Create folders by follwoing names before running 
 
-1. data
+1.data
 
 2.runs
 
